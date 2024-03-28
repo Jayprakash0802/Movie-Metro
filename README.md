@@ -68,11 +68,10 @@ This will run the unit tests.
 
 ## Authors
 
-👤 **Shaquille Ndunda**
+👤 **Jay Prakash**
 
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
+- GitHub: [@JayPrakash](https://github.com/Jayprakash0802)
+- LinkedIn: [Jay Prakash](https://www.linkedin.com/in/jay-prakash-b87545202/)
 
 ## 🤝 Contributing
 
